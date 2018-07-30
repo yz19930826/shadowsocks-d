@@ -22,6 +22,7 @@ wget https://npm.taobao.org/mirrors/node/v8.9.3/node-v8.9.3-linux-x64.tar.xz
 ```
 下载如下图:
 ![](http://p1hy9syru.bkt.clouddn.com/FhbytOb9-qXWIh_KnmO28I8DZsDv)
+
 ### 2.2 解压Node.js
 下载下来的是一个压缩包，因此需要解压,如下：
 ```
@@ -29,6 +30,7 @@ xz -d node-v8.9.3-linux-x64.tar.xz
 tar -xvf node-v8.9.3-linux-x64.tar
 ```
 ![](http://p1hy9syru.bkt.clouddn.com/FuQS_ACsmWyCFsiNWBKXIvk_CNaS)
+
 ### 2.3 建立软链接
 Q:什么是软链接?
 A:类似于Windows的快捷方式，可以快速的使用命令
@@ -39,7 +41,9 @@ ln -s -b /root/node-v8.9.3-linux-x64/bin/npm /usr/local/bin/npm
 node -v
 ```
 结果如下图：
+
 ![](http://p1hy9syru.bkt.clouddn.com/Fs24aELWAWWMslmGy9BBXdOx3eWH)
+
 出现v8.9.3说明Node安装成功
 
 ### 2.4 安装ss-manager
