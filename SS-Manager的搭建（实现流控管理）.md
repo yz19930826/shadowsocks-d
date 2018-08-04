@@ -21,6 +21,7 @@ A：是程序的运行环境，就如exe需要运行在window环境下一样。
 wget https://npm.taobao.org/mirrors/node/v8.9.3/node-v8.9.3-linux-x64.tar.xz
 ```
 下载如下图:
+
 ![](http://p1hy9syru.bkt.clouddn.com/FhbytOb9-qXWIh_KnmO28I8DZsDv)
 
 ### 2.2 解压Node.js
