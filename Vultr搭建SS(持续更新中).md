@@ -10,13 +10,13 @@ Vultr做活动，新用户充5$送25$，如果你不是新用户，也有褥羊�
 
 目前Vultr2.5 美元一个月的机器IP只有IPv6，而我们大部分的网络是IPv4，IPv4和IPv6之间没法互通网络，所以建议选择5美元的IPv4服务器。
 
-### 原文链接:
-原站内容更多（建议访问）
-
-[哈喽爪哇 http://www.hellojava.club/article/27](http://www.hellojava.club/article/27)
+### 原站链接:
+[哈喽爪哇-让技术更有传播的价值 http://www.hellojava.club](https://www.hellojava.club/)
 
 ### 免费技术支持
+
 关注微信公众号
+
 ![](http://p1hy9syru.bkt.clouddn.com/FvSZtJik4tztuyfD95cZ6lQFoSQL)
 
 
