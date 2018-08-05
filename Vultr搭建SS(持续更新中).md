@@ -16,7 +16,7 @@ Vultr做活动，新用户充5$送25$，如果你不是新用户，也有褥羊�
 [哈喽爪哇 http://www.hellojava.club/article/27](http://www.hellojava.club/article/27)
 
 ### 免费技术支持
-关注微信公众号（还有免费ss账号哦）
+关注微信公众号
 ![](http://p1hy9syru.bkt.clouddn.com/FvSZtJik4tztuyfD95cZ6lQFoSQL)
 
 
