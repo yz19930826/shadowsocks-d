@@ -54,21 +54,22 @@ Vultr服务器按小时计费,最低0.004美元/h,算起来2.5美元/月，且de
 
 首先打开<a href="https://www.vultr.com/?ref=7772826-4F">Vultr链接</a>，点击Create Account，如下图
 
-<img class="alignnone size-full wp-image-171" src="https://www.hellojava.club/wp-content/uploads/2018/08/3883542-a393d98c540c2923-1.jpg" width="1240" height="775" alt="image" />
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/3883542-a393d98c540c2923-1.jpg)
 
 因为Vultr的网站是全英文的，对注册还是有要求的，当输入密码的时候，会显示出规范，如下图所示：
 
-<img class="alignnone size-full wp-image-172" src="https://www.hellojava.club/wp-content/uploads/2018/08/35320802-1.jpg" width="534" height="673" alt="" />
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/35320802-1.jpg)
 
 <h4>1.3 充值Vultr</h4>
 
 注册完成之后就是充值，Vultr提供4种充值方式，如下图：
 
-<img class="alignnone size-full wp-image-173" src="https://www.hellojava.club/wp-content/uploads/2018/08/89036828.jpg" width="1280" height="483" alt="image" />
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/89036828.jpg)
 
 这里我选择支付宝，因为方便快捷，但是最低消费10美元，也不多，60多人民币，如下图：
 
-<img class="alignnone size-full wp-image-174" src="https://www.hellojava.club/wp-content/uploads/2018/08/15151635.jpg" width="1049" height="735" alt="image" />
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/15151635.jpg)
+
 付款之后，就可以看到账户的钱多了
 
 <h4>1.4 选择VPS的位置</h4>
@@ -76,11 +77,12 @@ Vultr服务器按小时计费,最低0.004美元/h,算起来2.5美元/月，且de
 首先，位置很重要！我们如何选择呢，当然有科学的办法，ping它！
 
 Vultr的服务器有很多位置，下面我测试的东京节点和新加坡节点的数据如下：
-<img class="alignnone size-full wp-image-175" src="https://www.hellojava.club/wp-content/uploads/2018/08/24848076.jpg" width="776" height="257" alt="image" />
+
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/24848076.jpg)
 
 <hr />
 
-<img class="alignnone size-full wp-image-176" src="https://www.hellojava.club/wp-content/uploads/2018/08/6285681.jpg" width="735" height="255" alt="image" />
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/6285681.jpg)
 
 这么看来还是东京的节点速度比较好，当然这个因人而异，在中国不同的地理位置访问国外不同位置的服务器速度也不一样。（下面提供了下载地址,Windows操作系统下载下来双击运行即可）。
 
@@ -159,35 +161,37 @@ pause
 
 左侧菜单栏Servers，点击+，如下图：
 
-<img class="alignnone size-full wp-image-177" src="https://www.hellojava.club/wp-content/uploads/2018/08/47817578.jpg" width="1280" height="407" alt="" />
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/47817578.jpg)
 
 选择VPS的位置，如下图：
 
-<img class="alignnone size-full wp-image-178" src="https://www.hellojava.club/wp-content/uploads/2018/08/80347886.jpg" width="1276" height="593" alt="" />
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/80347886.jpg)
 
 选择操作系统和价格，如下图：
 
-<img class="alignnone size-full wp-image-179" src="https://www.hellojava.club/wp-content/uploads/2018/08/57275913.jpg" width="1280" height="787" alt="" />
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/57275913.jpg)
 
 点击最下面的Deploy Now，如下图：
 
-<img class="alignnone size-full wp-image-180" src="https://www.hellojava.club/wp-content/uploads/2018/08/72614747.jpg" width="1169" height="94" alt="" />
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/72614747.jpg)
 
 创建成功
-<img class="alignnone size-full wp-image-181" src="https://www.hellojava.club/wp-content/uploads/2018/08/96724049.jpg" width="1280" height="532" alt="" />
+
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/96724049.jpg)
 
 <h4>1.6 VPS的信息</h4>
 
 安装成功之后，点击Manage
-<img class="alignnone size-full wp-image-182" src="https://www.hellojava.club/wp-content/uploads/2018/08/5303346.jpg" width="1260" height="129" alt="" />
+
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/5303346.jpg)
 
 可以看到你购买的VPS的信息，如下图所示：
 
-<img class="alignnone size-full wp-image-183" src="https://www.hellojava.club/wp-content/uploads/2018/08/60924560.jpg" width="1273" height="383" alt="" />
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/60924560.jpg)
 
 ping一下ip地址，100ms多一点，这个速度相当可以了，如下图：
 
-<img class="alignnone size-full wp-image-184" src="https://www.hellojava.club/wp-content/uploads/2018/08/85210345.jpg" width="727" height="204" alt="" />
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/85210345.jpg)
 
 <h3>2. VPS的使用</h3>
 
@@ -199,15 +203,15 @@ ping一下ip地址，100ms多一点，这个速度相当可以了，如下图：
 
 下载完成之后安装，下一步即可
 
-<img class="alignnone size-full wp-image-185" src="https://www.hellojava.club/wp-content/uploads/2018/08/93916574.jpg" width="624" height="442" alt="" />
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/93916574.jpg)
 
 接着选择免费为家庭/学校
 
-<img class="alignnone size-full wp-image-186" src="https://www.hellojava.club/wp-content/uploads/2018/08/78823393.jpg" width="624" height="442" alt="" />
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/78823393.jpg)
 
 语言选择中文：
 
-<img class="alignnone size-full wp-image-187" src="https://www.hellojava.club/wp-content/uploads/2018/08/31720650.jpg" width="624" height="476" alt="" />
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/31720650.jpg)
 
 安装成功后打开
 
@@ -215,18 +219,19 @@ ping一下ip地址，100ms多一点，这个速度相当可以了，如下图：
 
 打开Xshell，选择文件->新建，输入VPS的IP，IP地址就在Vultr的管理页面上，如下图所示：
 
-<img class="alignnone size-full wp-image-188" src="https://www.hellojava.club/wp-content/uploads/2018/08/5952980.jpg" width="667" height="613" alt="" />
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/5952980.jpg)
 
 点击确定，输入用户名，默认应该为root，如下图：
 
-<img class="alignnone size-full wp-image-189" src="https://www.hellojava.club/wp-content/uploads/2018/08/42093165.jpg" width="398" height="239" alt="" />
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/42093165.jpg)
 
 接着输入密码：
 
-<img class="alignnone size-full wp-image-190" src="https://www.hellojava.club/wp-content/uploads/2018/08/60518802.jpg" width="504" height="485" alt="" />
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/60518802.jpg)
 
 连接成功：
-<img class="alignnone size-full wp-image-191" src="https://www.hellojava.club/wp-content/uploads/2018/08/22145504.jpg" width="881" height="324" alt="" />
+
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/22145504.jpg)
 
 <h3>3. 快速搭建ShadowSocks(二选一)</h3>
 
@@ -236,21 +241,26 @@ ping一下ip地址，100ms多一点，这个速度相当可以了，如下图：
 
 在Xshell中依次运行以下命令
 
-<pre><code class="">wget --no-check-certificate -O shadowsocks.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks.sh
-
+```$xslt
+wget --no-check-certificate -O shadowsocks.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks.sh
 chmod +x shadowsocks.sh
 ./shadowsocks.sh 2&gt;&amp;1 | tee shadowsocks.log
-</code></pre>
+```
+
+
+
 
 接着按照提醒输入你的密码，端口和加密方式，如下图：
 
-<img class="alignnone size-full wp-image-192" src="https://www.hellojava.club/wp-content/uploads/2018/08/98045672.jpg" width="902" height="492" alt="" />
-<img class="alignnone size-full wp-image-193" src="https://www.hellojava.club/wp-content/uploads/2018/08/25013694.jpg" width="874" height="346" alt="" />
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/98045672.jpg)
+
+
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/25013694.jpg)
 
 然后可以去听首歌~，成功安装之后有你配置的信息显示，记住这些信息，然后跳过下面的手动安装部分，直接去看客户端连接部分即可，如下图：
 
 
-<img class="alignnone size-full wp-image-194" src="https://www.hellojava.club/wp-content/uploads/2018/08/14336343.jpg" width="568" height="218" alt="" />
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/14336343.jpg)
 
 <blockquote>
   以上脚本来源于秋水逸冰
@@ -270,7 +280,7 @@ python get-pip.py
 
 一个个的来，如下图：
 
-<img class="alignnone size-full wp-image-195" src="https://www.hellojava.club/wp-content/uploads/2018/08/44431815.jpg" width="833" height="358" alt="" />
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/44431815.jpg)
 
 <h5>3.2.2 安装ShadowSocks</h5>
 
@@ -280,7 +290,7 @@ pip install shadowsocks
 
 如下图：
 
-<img class="alignnone size-full wp-image-196" src="https://www.hellojava.club/wp-content/uploads/2018/08/8720751.jpg" width="834" height="299" alt="" />
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/8720751.jpg)
 
 <h5>3.2.3 创建ShadowSocks配置文件</h5>
 
@@ -319,15 +329,15 @@ pip install shadowsocks
 
 我采取的是单用户配置，如下图所示：
 
-<img class="alignnone size-full wp-image-197" src="https://www.hellojava.club/wp-content/uploads/2018/08/15345954.jpg" width="710" height="203" alt="" />
-<img class="alignnone size-full wp-image-198" src="https://www.hellojava.club/wp-content/uploads/2018/08/88691281.jpg" width="811" height="487" alt="" />
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/15345954.jpg)
+
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/88691281.jpg)
 
 <h5>3.2.4 配置防火墙</h5>
 
 <pre><code class="">systemctl stop firewalld.service
 </code></pre>
 
-<img src="http://p1hy9syru.bkt.clouddn.com/17-12-30/27165290.jpg" alt="" />
 
 <h5>3.2.5 启动ShadowSocks服务</h5>
 
@@ -343,7 +353,8 @@ pip install shadowsocks
 </code></pre>
 
 如图所示：
-<img class="alignnone size-full wp-image-199" src="https://www.hellojava.club/wp-content/uploads/2018/08/34335669.jpg" width="650" height="117" alt="" />
+
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/34335669.jpg)
 
 <h3>4. 连接ShadowSocks，体会科学上网的魅力</h3>
 
@@ -354,12 +365,12 @@ pip install shadowsocks
 
 下载完成之后解压打开，如下图所示：
 
-<img class="alignnone size-full wp-image-200" src="https://www.hellojava.club/wp-content/uploads/2018/08/45931732.jpg" width="578" height="567" alt="" />
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/45931732.jpg)
 
 按照你自己的配置完成之后，点击确定，然后在托盘中右键这个小飞机，启动系统代理
 ，灰色的小飞机就会亮起来，如下图：
 
-<img class="alignnone size-full wp-image-201" src="https://www.hellojava.club/wp-content/uploads/2018/08/90649607.jpg" width="324" height="83" alt="" />
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/90649607.jpg)
 
 然后就可以畅游网络了~
 
@@ -374,7 +385,7 @@ pip install shadowsocks
 
 配置和windows差不多，配置完成后点击右上角的开启按钮即可，如下图：
 
-<img class="alignnone size-full wp-image-202" src="https://www.hellojava.club/wp-content/uploads/2018/08/2617202.jpg" width="473" height="820" alt="" />
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/2617202.jpg)
 
 <h4>4.3 IOS连接</h4>
 
@@ -388,7 +399,8 @@ pip install shadowsocks
 <h3>5. 测试结果</h3>
 
 4K Youtube完成无压力
-<img class="alignnone size-full wp-image-203" src="https://www.hellojava.club/wp-content/uploads/2018/08/28663474.jpg" width="1280" height="497" alt="image" />
+
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/28663474.jpg)
 
 <h3>6. 写在后面的话</h3>
 
