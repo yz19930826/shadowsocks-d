@@ -27,6 +27,7 @@ Vultr做活动，新用户充5$送25$，如果你不是新用户，也有褥羊�
 ### 免费技术支持 
 
 关注微信公众号
+
 <img class="alignnone size-full wp-image-168" src="https://www.hellojava.club/wp-content/uploads/2018/08/FvSZtJik4tztuyfD95cZ6lQFoSQL.jpg" width="300" height="300" alt="" />
 
   不多说，先看目录，有自己需要的内容再往下面看，免得耽误大家宝贵的时间。
@@ -246,6 +247,7 @@ chmod +x shadowsocks.sh
 <img class="alignnone size-full wp-image-193" src="https://www.hellojava.club/wp-content/uploads/2018/08/25013694.jpg" width="874" height="346" alt="" />
 
 然后可以去听首歌~，成功安装之后有你配置的信息显示，记住这些信息，然后跳过下面的手动安装部分，直接去看客户端连接部分即可，如下图：
+
 
 <img class="alignnone size-full wp-image-194" src="https://www.hellojava.club/wp-content/uploads/2018/08/14336343.jpg" width="568" height="218" alt="" />
 
