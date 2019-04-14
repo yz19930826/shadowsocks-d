@@ -28,7 +28,8 @@ Vultr做活动，新用户充5$送25$，如果你不是新用户，也有褥羊�
 
 关注微信公众号
 
-<img class="alignnone size-full wp-image-168" src="https://www.hellojava.club/wp-content/uploads/2018/08/FvSZtJik4tztuyfD95cZ6lQFoSQL.jpg" width="300" height="300" alt="" />
+![image](https://www.hellojava.club/wp-content/uploads/2018/08/FvSZtJik4tztuyfD95cZ6lQFoSQL.jpg)
+
 
   不多说，先看目录，有自己需要的内容再往下面看，免得耽误大家宝贵的时间。
  
