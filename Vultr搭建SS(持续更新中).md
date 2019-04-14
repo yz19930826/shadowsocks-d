@@ -43,6 +43,7 @@ Vultr做活动，新用户充5$送25$，如果你不是新用户，也有褥羊�
 <h4>1.1 Vultr服务器价格</h4>
 
 Vultr服务器按小时计费,最低0.004美元/h,算起来2.5美元/月，且destory掉服务器是不收费的，所以不用担心如果暂时没有使用还一直扣费的问题，如下图所示：
+
 <img class="alignnone size-full wp-image-169" src="https://www.hellojava.club/wp-content/uploads/2018/08/34646066.jpg" width="1203" height="811" alt="image" />
 <img class="alignnone size-full wp-image-170" src="https://www.hellojava.club/wp-content/uploads/2018/08/3735251.jpg" width="1169" height="803" alt="image" />
 最低价格的服务器是512M的内存，500G的带宽，只能说99%的情况下完全够用了！
@@ -245,6 +246,7 @@ chmod +x shadowsocks.sh
 <img class="alignnone size-full wp-image-193" src="https://www.hellojava.club/wp-content/uploads/2018/08/25013694.jpg" width="874" height="346" alt="" />
 
 然后可以去听首歌~，成功安装之后有你配置的信息显示，记住这些信息，然后跳过下面的手动安装部分，直接去看客户端连接部分即可，如下图：
+
 <img class="alignnone size-full wp-image-194" src="https://www.hellojava.club/wp-content/uploads/2018/08/14336343.jpg" width="568" height="218" alt="" />
 
 <blockquote>
