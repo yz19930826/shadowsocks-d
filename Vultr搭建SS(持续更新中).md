@@ -54,14 +54,17 @@ Vultr服务器按小时计费,最低0.004美元/h,算起来2.5美元/月，且de
 <img class="alignnone size-full wp-image-171" src="https://www.hellojava.club/wp-content/uploads/2018/08/3883542-a393d98c540c2923-1.jpg" width="1240" height="775" alt="image" />
 
 因为Vultr的网站是全英文的，对注册还是有要求的，当输入密码的时候，会显示出规范，如下图所示：
+
 <img class="alignnone size-full wp-image-172" src="https://www.hellojava.club/wp-content/uploads/2018/08/35320802-1.jpg" width="534" height="673" alt="" />
 
 <h4>1.3 充值Vultr</h4>
 
 注册完成之后就是充值，Vultr提供4种充值方式，如下图：
+
 <img class="alignnone size-full wp-image-173" src="https://www.hellojava.club/wp-content/uploads/2018/08/89036828.jpg" width="1280" height="483" alt="image" />
 
 这里我选择支付宝，因为方便快捷，但是最低消费10美元，也不多，60多人民币，如下图：
+
 <img class="alignnone size-full wp-image-174" src="https://www.hellojava.club/wp-content/uploads/2018/08/15151635.jpg" width="1049" height="735" alt="image" />
 付款之后，就可以看到账户的钱多了
 
@@ -152,15 +155,19 @@ pause
 <h4>1.5 创建VPS</h4>
 
 左侧菜单栏Servers，点击+，如下图：
+
 <img class="alignnone size-full wp-image-177" src="https://www.hellojava.club/wp-content/uploads/2018/08/47817578.jpg" width="1280" height="407" alt="" />
 
 选择VPS的位置，如下图：
+
 <img class="alignnone size-full wp-image-178" src="https://www.hellojava.club/wp-content/uploads/2018/08/80347886.jpg" width="1276" height="593" alt="" />
 
 选择操作系统和价格，如下图：
+
 <img class="alignnone size-full wp-image-179" src="https://www.hellojava.club/wp-content/uploads/2018/08/57275913.jpg" width="1280" height="787" alt="" />
 
 点击最下面的Deploy Now，如下图：
+
 <img class="alignnone size-full wp-image-180" src="https://www.hellojava.club/wp-content/uploads/2018/08/72614747.jpg" width="1169" height="94" alt="" />
 
 创建成功
@@ -172,9 +179,11 @@ pause
 <img class="alignnone size-full wp-image-182" src="https://www.hellojava.club/wp-content/uploads/2018/08/5303346.jpg" width="1260" height="129" alt="" />
 
 可以看到你购买的VPS的信息，如下图所示：
+
 <img class="alignnone size-full wp-image-183" src="https://www.hellojava.club/wp-content/uploads/2018/08/60924560.jpg" width="1273" height="383" alt="" />
 
 ping一下ip地址，100ms多一点，这个速度相当可以了，如下图：
+
 <img class="alignnone size-full wp-image-184" src="https://www.hellojava.club/wp-content/uploads/2018/08/85210345.jpg" width="727" height="204" alt="" />
 
 <h3>2. VPS的使用</h3>
@@ -202,9 +211,11 @@ ping一下ip地址，100ms多一点，这个速度相当可以了，如下图：
 <h4>2.2 连接VPS</h4>
 
 打开Xshell，选择文件->新建，输入VPS的IP，IP地址就在Vultr的管理页面上，如下图所示：
+
 <img class="alignnone size-full wp-image-188" src="https://www.hellojava.club/wp-content/uploads/2018/08/5952980.jpg" width="667" height="613" alt="" />
 
 点击确定，输入用户名，默认应该为root，如下图：
+
 <img class="alignnone size-full wp-image-189" src="https://www.hellojava.club/wp-content/uploads/2018/08/42093165.jpg" width="398" height="239" alt="" />
 
 接着输入密码：
@@ -253,6 +264,7 @@ python get-pip.py
 </code></pre>
 
 一个个的来，如下图：
+
 <img class="alignnone size-full wp-image-195" src="https://www.hellojava.club/wp-content/uploads/2018/08/44431815.jpg" width="833" height="358" alt="" />
 
 <h5>3.2.2 安装ShadowSocks</h5>
@@ -262,6 +274,7 @@ pip install shadowsocks
 </code></pre>
 
 如下图：
+
 <img class="alignnone size-full wp-image-196" src="https://www.hellojava.club/wp-content/uploads/2018/08/8720751.jpg" width="834" height="299" alt="" />
 
 <h5>3.2.3 创建ShadowSocks配置文件</h5>
@@ -300,6 +313,7 @@ pip install shadowsocks
 </code></pre>
 
 我采取的是单用户配置，如下图所示：
+
 <img class="alignnone size-full wp-image-197" src="https://www.hellojava.club/wp-content/uploads/2018/08/15345954.jpg" width="710" height="203" alt="" />
 <img class="alignnone size-full wp-image-198" src="https://www.hellojava.club/wp-content/uploads/2018/08/88691281.jpg" width="811" height="487" alt="" />
 
@@ -334,10 +348,12 @@ pip install shadowsocks
 <a href="https://share.weiyun.com/58iM1wR">Shadowsocks-4.0.7.zip</a>
 
 下载完成之后解压打开，如下图所示：
+
 <img class="alignnone size-full wp-image-200" src="https://www.hellojava.club/wp-content/uploads/2018/08/45931732.jpg" width="578" height="567" alt="" />
 
 按照你自己的配置完成之后，点击确定，然后在托盘中右键这个小飞机，启动系统代理
 ，灰色的小飞机就会亮起来，如下图：
+
 <img class="alignnone size-full wp-image-201" src="https://www.hellojava.club/wp-content/uploads/2018/08/90649607.jpg" width="324" height="83" alt="" />
 
 然后就可以畅游网络了~
