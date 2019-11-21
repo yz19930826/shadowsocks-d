@@ -1,6 +1,6 @@
 本仓库包含各种shadowsocks的文档（持续更新ing~）
 
-- 2019年11月21日 +文章 **5分钟快速搭建自己的SS服务**
+- 2019年11月21日 +文章 **[5分钟快速搭建自己的SS服务](https://github.com/yz19930826/shadowsocks-d/blob/origin/5%E5%88%86%E9%92%9F%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84SS%E6%9C%8D%E5%8A%A1.md)**
 
 [Vultr搭建SS](https://github.com/yz19930826/shadowsocks-d/blob/origin/Vultr%E6%90%AD%E5%BB%BASS(%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%E4%B8%AD).md)
 
